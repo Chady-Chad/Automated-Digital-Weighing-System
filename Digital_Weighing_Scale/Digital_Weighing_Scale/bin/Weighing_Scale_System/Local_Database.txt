@@ -1,0 +1,163 @@
+CREATE DATABASE Scraps;
+USE Scraps;
+
+SET SQL_SAFE_UPDATES = 0;
+SET SQL_SAFE_UPDATES = 1;
+
+-- Lookup Tables for new Transaction =================================================
+CREATE TABLE CustomerTypeMasterfile (CustomerType_ID INT PRIMARY KEY AUTO_INCREMENT,
+CustomerTypeName VARCHAR(50)
+);
+CREATE TABLE AccessTypeMasterfile (
+AccessType_ID INT PRIMARY KEY AUTO_INCREMENT,
+AccessTypeName VARCHAR(50)
+);
+-- ===================================================================================
+
+-- Main Master Tables=================================================================
+CREATE TABLE CustomerMasterfile (Customer_ID INT PRIMARY KEY AUTO_INCREMENT,
+CustomerName VARCHAR(100),
+CustomerAddress VARCHAR(200),
+CustomerTypeID INT,
+FOREIGN KEY (CustomerTypeID) REFERENCES CustomerTypeMasterfile(CustomerType_ID)
+);
+CREATE TABLE AdminStaffMasterfile (AdminStaff_ID INT PRIMARY KEY AUTO_INCREMENT,
+AdminStaffName VARCHAR(50),
+AccessTypeID INT,
+Password VARCHAR(50),
+FOREIGN KEY (AccessTypeID) REFERENCES AccessTypeMasterfile(AccessType_ID)
+);
+
+CREATE TABLE InChargePersonnelDetails (
+    EmployeeDetailID INT PRIMARY KEY AUTO_INCREMENT,
+    AdminStaffID INT NOT NULL,
+    FirstName VARCHAR(50) NOT NULL,
+    Surname VARCHAR(50) NOT NULL,
+    IDNumber VARCHAR(20) UNIQUE NOT NULL,
+    EmployeeSection VARCHAR(100) NOT NULL,
+    FOREIGN KEY (AdminStaffID) REFERENCES AdminStaffMasterfile(AdminStaff_ID)
+        ON DELETE CASCADE
+        ON UPDATE CASCADE
+);
+
+
+CREATE TABLE TransactionMasterfile (
+  Transaction_ID INT PRIMARY KEY AUTO_INCREMENT,
+  Transaction_No. CHAR(10),
+  TransactionDate DATE,
+  CustomerID INT,
+  AdminStaffID INT,
+  SecurityGuardName VARCHAR(50),
+  DateTimeStarted DATETIME,
+  DateTimeFinished DATETIME,
+   IsCancel TINYINT(1) DEFAULT 0,
+  FOREIGN KEY (CustomerID) REFERENCES CustomerMasterfile(Customer_ID),
+  FOREIGN KEY (AdminStaffID) REFERENCES AdminStaffMasterfile(AdminStaff_ID)
+);
+CREATE TABLE CancelledTransaction (
+  TransactionID INT PRIMARY KEY,
+  Reason VARCHAR(200),
+  DateTimeCancelled DATETIME,
+  CancelledByID INT,
+  FOREIGN KEY (TransactionID) REFERENCES TransactionMasterfile(Transaction_ID)
+  ON DELETE CASCADE
+  ON UPDATE CASCADE,
+  FOREIGN KEY (CancelledByID) REFERENCES AdminStaffMasterfile(AdminStaff_ID)
+);
+-- ===================================================================================
+
+-- For table ItemEntryScreen below
+-- ===================================================================================
+
+CREATE TABLE CategoryMasterfile (CategoryID INT PRIMARY KEY AUTO_INCREMENT,
+CategoryDescription VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE ItemMasterfile (ItemID INT PRIMARY KEY AUTO_INCREMENT,
+ItemCode VARCHAR(10) NOT NULL,
+ItemDescription VARCHAR(100) NOT NULL,
+CategoryID INT NOT NULL,
+FOREIGN KEY (CategoryID) REFERENCES CategoryMasterfile (CategoryID)
+);
+
+
+CREATE TABLE BoxTypeMasterfile(BoxTypeID INT PRIMARY KEY AUTO_INCREMENT,
+BoxTypeDescription VARCHAR(50) NOT NULL,
+BoxWeight NUMERIC(5,2) NOT NULL
+);
+
+CREATE TABLE TransactionDetails (
+    TransactionDetailID INT PRIMARY KEY AUTO_INCREMENT,
+    TransactionID INT NOT NULL,
+    ItemNo INT NULL,
+    ItemID INT NULL,
+    OtherScraps VARCHAR(100),
+    BoxTypeID INT NOT NULL,
+    BoxWeight NUMERIC(5,2) NOT NULL,
+    Weight NUMERIC (7,2) NOT NULL,
+    IsVoid TINYINT(1) DEFAULT 0,
+    FOREIGN KEY (TransactionID) REFERENCES TransactionMasterfile(Transaction_ID)
+        ON DELETE CASCADE
+        ON UPDATE CASCADE,
+    FOREIGN KEY (ItemID) REFERENCES ItemMasterfile(ItemID),
+    FOREIGN KEY (BoxTypeID) REFERENCES BoxTypeMasterfile(BoxTypeID)
+);
+-- ===================================================================================
+CREATE TABLE PriceList (
+      PriceListID INT PRIMARY KEY AUTO_INCREMENT,
+      ItemID INT NOT NULL,
+      PRICE DECIMAL(10,2) NOT NULL,
+      FOREIGN KEY (ItemID) REFERENCES ItemMasterfile(ItemID)
+      ON DELETE CASCADE
+      ON UPDATE CASCADE
+);
+
+DROP TABLE PriceList;
+-- ===================================================================================
+-- Insert Customer Types
+INSERT INTO CustomerTypeMasterfile (CustomerTypeName)
+VALUES ('Employee'), ('Company');
+
+-- Insert Access Types 
+INSERT INTO AccessTypeMasterfile (AccessTypeName)
+VALUES ('Admin'), ('Accounting');
+
+INSERT INTO CategoryMasterfile (CategoryDescription)
+VALUES ('Carton Boxes'),('Plastic'),('Paper'),('Metal'),('Wires');
+-- ===================================================================================
+SHOW TABLES;
+
+-- Recorded from Digital Weighing System Windows App ==============
+SELECT * FROM TransactionMasterfile;
+SELECT * FROM TransactionDetails;
+-- ================================================================
+
+SELECT * FROM CustomerMasterfile;
+SELECT * FROM AdminStaffMasterfile;
+SELECT * FROM CancelledTransaction;
+SELECT * FROM CustomerTypeMasterfile;
+SELECT * FROM AccessTypeMasterfile;
+SELECT * FROM InChargePersonnelDetails;
+SELECT * FROM ItemMasterfile;
+SELECT * FROM CategoryMasterfile;
+SELECT * FROM BoxTypeMasterfile;
+SELECT * FROM PriceList;
+
+
+DESCRIBE CategoryMasterfile;
+SET FOREIGN_KEY_CHECKS = 0; 
+SET FOREIGN_KEY_CHECKS = 1; 
+
+
+-- TRUNCATE TABLE TransactionMasterfile; -- for reset	
+-- TRUNCATE TABLE CustomerMasterfile;
+-- TRUNCATE TABLE AdminStaffMasterfile;
+-- TRUNCATE TABLE CancelledTransaction;
+-- TRUNCATE TABLE CustomerTypeMasterfile;
+-- TRUNCATE TABLE AccessTypeMasterfile;
+-- TRUNCATE TABLE ItemMasterfile;
+-- TRUNCATE TABLE CategoryMasterfile;
+-- TRUNCATE TABLE BoxTypeMasterfile;
+-- TRUNCATE TABLE TransactionDetails;
+-- TRUNCATE TABLE InChargePersonnelDetails;
+-- TRUNCATE TABLE PriceList;
