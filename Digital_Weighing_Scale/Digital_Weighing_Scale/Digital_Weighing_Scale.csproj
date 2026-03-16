@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FDB92CD3-81A6-4A74-B881-CAB58990B4E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Digital_Weighing_Scale</RootNamespace>
+    <AssemblyName>Digital_Weighing_Scale</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Weighing_Scale_System\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClosedXML">
+      <HintPath>\\10.0.253.16\System Reference\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>\\10.0.253.16\System Reference\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CancelTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancelTransaction.Designer.cs">
+      <DependentUpon>CancelTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenerateReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenerateReport.Designer.cs">
+      <DependentUpon>GenerateReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="isVoid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="isVoid.Designer.cs">
+      <DependentUpon>isVoid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemEntryScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemEntryScreen.Designer.cs">
+      <DependentUpon>ItemEntryScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SaveTransactionScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaveTransactionScreen.Designer.cs">
+      <DependentUpon>SaveTransactionScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExportForm.Designer.cs">
+      <DependentUpon>ExportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyncOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SyncOptions.Designer.cs">
+      <DependentUpon>SyncOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransactionScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransactionScreen.Designer.cs">
+      <DependentUpon>TransactionScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewTransaction.Designer.cs">
+      <DependentUpon>NewTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelTransaction.resx">
+      <DependentUpon>CancelTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenerateReport.resx">
+      <DependentUpon>GenerateReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="isVoid.resx">
+      <DependentUpon>isVoid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemEntryScreen.resx">
+      <DependentUpon>ItemEntryScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveTransactionScreen.resx">
+      <DependentUpon>SaveTransactionScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExportForm.resx">
+      <DependentUpon>ExportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SyncOptions.resx">
+      <DependentUpon>SyncOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransactionScreen.resx">
+      <DependentUpon>TransactionScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewTransaction.resx">
+      <DependentUpon>NewTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext493002549690804.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-enter-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-enter-50 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table-scale-dm2-600x600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pi7_Passport_Photo.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fi05-platform-scale.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying-glass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying-glass1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying-glass.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-transaction-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction_6851629-removebg-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction_6851629-removebg-preview1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weighing-icon-vector-removebg-preview %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download-Button-removebg-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10000766-removebg-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10000766-removebg-preview1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report-icon-for-your-website-design-logo-app-ui-free-vector-removebg-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\613620-removebg-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-download.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1600x1200-131249-dark-grey-low-poly-abstract-background-design-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comprehensive-database-replication-icon-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sync.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sync1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-database.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\43543.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinegiftools.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-download1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinegiftools %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinegiftools %282%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimal-neutral-earth-tone-abstract-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinegiftools %283%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimal-neutral-earth-tone-abstract-background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinegiftools %283%291.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinegiftools %283%292.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sync2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinegiftools %284%29.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

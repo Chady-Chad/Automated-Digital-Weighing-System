@@ -1,0 +1,110 @@
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.exe.config
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.exe
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.pdb
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.AssemblyReference.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Properties.Resources.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.GenerateResource.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.CoreCompileInputs.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.exe
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.pdb
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\bin\Debug\MySql.Data.dll
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_.C1E55A16.Up2Date
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.New_Transaction.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Main_Menu.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.TransactionScreen.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Cancel_Transaction.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.ItemEntryScreen.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.exe.config
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.exe
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.pdb
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\MySql.Data.dll
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.AssemblyReference.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Cancel_Transaction.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.ItemEntryScreen.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Main_Menu.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.TransactionScreen.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.New_Transaction.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Properties.Resources.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.GenerateResource.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.CoreCompileInputs.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_.C1E55A16.Up2Date
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.exe
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.pdb
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.exe.config
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.exe
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.pdb
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\MySql.Data.dll
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.AssemblyReference.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.exe.config
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Cancel_Transaction.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.ItemEntryScreen.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Main_Menu.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.TransactionScreen.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.New_Transaction.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Properties.Resources.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.GenerateResource.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.CoreCompileInputs.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_.C1E55A16.Up2Date
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.exe
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.pdb
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.isVoid.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.exe.config
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.exe
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\Digital_Weighing_Scale.pdb
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\MySql.Data.dll
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.AssemblyReference.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Cancel_Transaction.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.isVoid.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.ItemEntryScreen.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Main_Menu.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.TransactionScreen.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.New_Transaction.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Properties.Resources.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.GenerateResource.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.CoreCompileInputs.cache
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.exe
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.pdb
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.SaveTransactionScreen.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.GenerateReport.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.AboutBox1.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.CopyComplete
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\ClosedXML.dll
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.ExportForm.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\Digital_Weighing_Scale.exe.config
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\Digital_Weighing_Scale.exe
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\Digital_Weighing_Scale.pdb
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\MySql.Data.dll
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\DocumentFormat.OpenXml.xml
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\Newtonsoft.Json.dll
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\Newtonsoft.Json.xml
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\DocumentFormat.OpenXml.dll
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.SyncOptions.resources
+C:\Users\c-ameng\source\repos\Digital_Weighing_Scale for Scraps_Market(ScrapSale)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\MySql.Data.xml
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\Digital_Weighing_Scale.exe.config
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\Digital_Weighing_Scale.exe
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\Digital_Weighing_Scale.pdb
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\Newtonsoft.Json.dll
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\DocumentFormat.OpenXml.dll
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\MySql.Data.xml
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\Newtonsoft.Json.xml
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\bin\Weighing_Scale_System\DocumentFormat.OpenXml.xml
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.AssemblyReference.cache
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.AboutBox1.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Cancel_Transaction.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.GenerateReport.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.isVoid.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.ItemEntryScreen.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Main_Menu.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.SaveTransactionScreen.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.ExportForm.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.SyncOptions.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.TransactionScreen.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.New_Transaction.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.Properties.Resources.resources
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.GenerateResource.cache
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.csproj.CoreCompileInputs.cache
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_.C1E55A16.Up2Date
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.exe
+C:\Users\camen\Downloads\Digital_Weighing_Scale (backUp)\Digital_Weighing_Scale\obj\Debug\Digital_Weighing_Scale.pdb
