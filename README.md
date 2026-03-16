@@ -74,3 +74,4 @@ For security and confidentiality reasons, the repository may include only a **sa
 
 ## 🖼️ Screenshots / Interface
 
+![Main Transaction Screen](Downloads/Images/1771380947791.jpg)
