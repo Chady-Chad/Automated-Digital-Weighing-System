@@ -4,7 +4,7 @@ The **Automated Digital Weighing System** is a custom Windows application integr
 
 This solution replaces manual paper-based recording with a fully digital workflow, improving operational efficiency, accuracy, and traceability of scrap materials.
 
-> 📝 **Note:** The actual system setup used in the private industrial environment is not publicly shared due to confidentiality. I requested my manager for a version without the full UI design so that it could be included in my portfolio.
+> 📝 **FYI:** The actual system setup used in the private industrial environment is not publicly shared due to confidentiality. I requested my manager for a version without the full UI design so that it could be included in my portfolio.
 
 
 ---
