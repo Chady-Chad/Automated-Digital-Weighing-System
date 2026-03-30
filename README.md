@@ -1,6 +1,6 @@
 #  Automated Digital Weighing System
 
-The **Automated Digital Weighing System** is a custom Windows application integrated with a digital weighing scale through I/O ports. The system automates scrap weight recording, streamlines data management, and generates structured reports for accounting and administrative departments.
+The **Automated Digital Weighing System** is a custom Windows application integrated with a digital weighing scale through I/O ports. The system automates scrap weight recording with Excel file, streamlines data management, and generates structured reports for accounting and administrative departments.
 
 This solution replaces manual paper-based recording with a fully digital workflow, improving operational efficiency, accuracy, and traceability of scrap materials.
 
